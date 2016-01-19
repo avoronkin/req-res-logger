@@ -1,0 +1,24 @@
+{
+    "name": "reqres-logger",
+    "version": "1.0.0",
+    "description": "logger for express apps",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alexandr Voronkin <hello@elasticweb.ru>",
+    "dependencies": {
+        "on-finished": "^2.3.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/avoronkin/reqres-logger.git"
+    },
+    "bugs": {
+        "url": "https://github.com/avoronkin/reqres-logger/issues"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+}
