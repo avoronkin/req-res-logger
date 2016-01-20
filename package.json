@@ -1,7 +1,7 @@
 {
-  "name": "reqres-logger",
-  "version": "1.0.0",
-  "description": "logger for express apps",
+  "name": "req-res-logger",
+  "version": "1.0.1",
+  "description": "Request|response logger for express app",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/avoronkin/reqres-logger.git"
+    "url": "git://github.com/avoronkin/req-res-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/avoronkin/reqres-logger/issues"
+    "url": "https://github.com/avoronkin/req-res-logger/issues"
   },
   "license": {
     "type": "MIT",
