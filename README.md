@@ -1,3 +1,4 @@
+[![NPM](https://nodei.co/npm/req-res-logger.png?compact=true)](https://nodei.co/npm/req-res-logger/)
 [![Build Status](https://travis-ci.org/avoronkin/req-res-logger.svg?branch=master)](https://travis-ci.org/avoronkin/req-res-logger)
 
 ```javascript

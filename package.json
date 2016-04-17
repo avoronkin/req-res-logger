@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec",
+
     "standard": "standard"
   },
   "author": "Alexandr Voronkin <hello@elasticweb.ru>",
@@ -24,6 +26,7 @@
   },
   "devDependencies": {
     "express": "^4.13.3",
+    "istanbul": "^0.4.3",
     "mocha": "^2.3.4",
     "pre-commit": "^1.1.2",
     "sinon": "^1.17.2",
