@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/avoronkin/req-res-logger.svg?branch=master)](https://travis-ci.org/avoronkin/req-res-logger)
+
 ```javascript
 var express = require('express')
 var rrlogger = require('req-res-logger');
