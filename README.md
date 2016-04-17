@@ -1,7 +1,6 @@
 [![NPM](https://nodei.co/npm/req-res-logger.png?compact=true)](https://nodei.co/npm/req-res-logger/)
 
 [![Build Status](https://travis-ci.org/avoronkin/req-res-logger.svg?branch=master)](https://travis-ci.org/avoronkin/req-res-logger)
-
 [![Coverage Status](https://coveralls.io/repos/github/avoronkin/req-res-logger/badge.svg?branch=master)](https://coveralls.io/github/avoronkin/req-res-logger?branch=master)
 
 ```javascript
